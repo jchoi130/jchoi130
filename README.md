@@ -1,3 +1,5 @@
+![Joon Choi Banner](Joon%20Choi%20Data%20Analytics%20Banner.png)
+
 # Hi, I'm Joon Choi 👋
 
 ### Data Analytics | Data Engineering | Python | SQL
